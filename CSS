@@ -1,0 +1,22 @@
+body 
+{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+#header-div {
+    background-color: lightcyan;
+    border-radius: 200px;
+}
+#main-div {
+    font-style: italic;
+}
+button {
+    background-color: lightgray;
+    border: solid lightgray 2px;
+    border-radius: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
